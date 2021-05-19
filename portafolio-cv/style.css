@@ -537,7 +537,9 @@ progress::-moz-progress-bar {
   color: var(--white-color);
   background-color: var(--third-color);
 }
-
+.hamburger button{
+        display: none;
+}
 .header {
   position: fixed;
   left: 0;
